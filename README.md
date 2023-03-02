@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Erin!
 - 👀 I’m interested in learning coding, software engineering, & cybersecurity
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me brown.erin325@gmail.com
 
