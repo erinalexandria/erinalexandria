@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Erin!
-- 👀 I’m interested in learning Data Analytics and Visualization
-- 🌱 I’m currently learning Python & SQL
+- 🌱 I’m currently learning Javascript & WebDev
 - 📫 How to reach me brown.erin325@gmail.com
 
 <!---
