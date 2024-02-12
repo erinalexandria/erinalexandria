@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erinalexandria&label=Profile%20views&color=0e75b6&style=flat" alt="erinalexandria" /> </p>
 
-- 🌱 I’m currently learning **Javascript, Web Development**
+- 🌱 I’m currently learning **Data Analytics, Data Science**
 
 - 📫 How to reach me **brown.erin325@gmail.com**
 
